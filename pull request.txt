@@ -1,2 +1,6 @@
 hello ahmed
+<<<<<<< HEAD
 fetch and pull and push
+=======
+welcome from github
+>>>>>>> origin/bugfix
